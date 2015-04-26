@@ -1,0 +1,96 @@
+/* CSS Document */
+*{
+margin:0px;
+padding:0px;
+}
+
+body{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333333;
+background:#666;
+}
+
+a img{
+	border:none;
+}
+
+.clr{
+clear:both;
+}
+
+#main{
+width:980px;
+background:#FFFFFF;
+margin:auto;
+}
+
+#header{
+background:#333333;
+}
+
+.logo{
+font-size:24px;
+color:#FFF;
+font-weight:bold;
+padding:20px;
+}
+
+#menu{
+padding:10px;
+background:#0099FF;
+}
+
+#menu ul{
+list-style:none;
+}
+
+#menu ul li{
+display:inline;
+text-transform:uppercase;
+font-weight:bold;
+}
+
+#menu li a{
+color:#FFFFFF;
+background:#0099FF;
+text-decoration:none;
+padding:10px;
+}
+
+#menu li a:hover{
+background:#FFFFFF;
+color:#333333;
+}
+
+#menu li a:active{
+background:#FFCC00;
+}
+
+#body{
+height:400px;
+background:
+}
+
+.col1{
+width:200px;
+height:400px;
+
+float:left;
+}
+
+.col2{
+width:780px;
+height:400px;
+background:#CCCCCC;
+float:left;
+}
+
+
+#footer{
+background:#0099FF;
+padding:10px;
+color:#CCFFFF;
+font-weight:bold;
+text-align:right;
+}
